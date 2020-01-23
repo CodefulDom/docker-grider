@@ -3,7 +3,7 @@ import logo from './logo.svg'
 import './App.css'
 
 function App() {
-  const name = 'Chandler'
+  const name = 'Shin'
   return (
     <div className="App">
       <header className="App-header">
@@ -12,7 +12,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a className="App-link" href="https://reactjs.org" target="_blank" rel="noopener noreferrer">
-          Hey, {name}!
+          Hey {name}!!!!
         </a>
       </header>
     </div>
